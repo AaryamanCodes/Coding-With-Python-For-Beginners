@@ -1,5 +1,5 @@
 # Coding-With-Python-For-Beginners
-Python is a language. Yes, a language just like English, French, German etc. But then why do most people take it up. Why, in a group of 100 only some 8-10 pick it. Leave python,
+Python is a language. Yes, a language just like English, French, German etc. But then why do most people take it up. Why, in a group of 100 only some 8-10 pick it? Leave python,
 the programming world is just a fraction of Sport Fanatics or Literature Lovers. What makes this language unique, is it not known around the world? Well, today everyone around
 you has probably heard of programming. The thing that seperates you, and them (supposing you like coding) is the logic! A person who knows lets assume 7 languages then, will be
 able to learn python in minutes right? Nope. The sad truth is, only if the person has a foundation of logic and math (just the very fundamentals of math) then he will be able to
